@@ -1,4 +1,6 @@
-# Spring Framework 5: Beginner to Guru
+# Spring Framework 5: Beginner to Guru (Coding Practice)
+
+# Udemy description for this course: (some links may help me in future)
 
 This repository is for an example application built in my [Spring Framework 5 - Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO) online course
 
